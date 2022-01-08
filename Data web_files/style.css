@@ -269,7 +269,7 @@ button {
 
 .navigation.navbar-dark .navbar-nav .nav-link {
      padding: 0 25px;
-     color: #fff;
+     color: #000000;
      font-size: 16px;
      line-height: 20px;
 }
@@ -283,7 +283,7 @@ button {
 .navigation.navbar-dark .navbar-nav .nav-link.active,
 .navigation.navbar-dark .navbar-nav .nav-link.show,
 .navigation.navbar-dark .navbar-nav .show>.nav-link {
-     color: #fdd430;
+     color: #000000;
 }
 
 
@@ -296,7 +296,7 @@ button {
 /*--------------------------------------------------------------------- layout new css ---------------------------------------------------------------------*/
 
 .header {
-     background: #0c0f38;
+     background: #ffffff;
      width: 100%;
      padding: 40px 40px 40px 40px;
 }
@@ -310,14 +310,14 @@ button {
 }
 
 .banner_main {
-     background: #0c0f38;
+     background: #ffffff;
      background-size: 100% 100%;
      background-repeat: no-repeat;
      padding-bottom: 90px;
 }
 
 .text-bg h1 {
-     color: #fff;
+     color: #2e3830;
      font-size: 60px;
      line-height: 80px;
      padding-bottom: 25px;
@@ -325,14 +325,14 @@ button {
 }
 
 .text-bg span {
-     color: #fdd430;
+     color: #218bb6;
      font-size: 40px;
      line-height: 35px;
      font-weight: bold;
 }
 
 .text-bg p {
-     color: #fff;
+     color: #000000;
      font-size: 17px;
      line-height: 28px;
      padding: 40px 0;
@@ -426,7 +426,7 @@ button {
 .Services {
      margin-top: 90px;
      padding: 60px 0;
-     background: #0c0f38;
+     background: #218bb6;
      font-family: Poppins;
 }
 
@@ -656,7 +656,7 @@ button {
 
 .footer {
      font-family: Poppins;
-     background: #0c0f38;
+     background: #218bb6;
 }
 
 .cont {
